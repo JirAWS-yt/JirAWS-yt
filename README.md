@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning AWS / Python / Adobe Premiere Pro Scripts (JSX)
 - 💞️ I’m looking to collaborate on any project !
 - 📫 Feel free to reach me learning@jiraws.com
-- ▶️ YouTube https://www.youtube.com/c/JirAWS
-- 🌐 Website https://www.jiraws.com
-- 🎙️ Discord: https://discord.gg/HDQG7KfSsn
-- 📔 Java & AWS Courses: https://www.jiraws.com/formations
+- ▶️ YouTube - https://www.youtube.com/c/JirAWS
+- 🌐 Website - https://www.jiraws.com
+- 🎙️ Discord - https://discord.gg/HDQG7KfSsn
+- 📔 Java & AWS Courses - https://www.jiraws.com/formations
 
 <!---
 JirAWS-yt/JirAWS-yt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
